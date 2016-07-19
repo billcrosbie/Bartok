@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\__Scripts\Prospector.cs">
+    <Files>
+      <File FileName="Assets\__Scripts\Prospector.cs" Line="439" Column="4" />
+      <File FileName="Assets\__Scripts\Card.cs" Line="32" Column="10" />
+      <File FileName="Assets\__Scripts\FloatingScore.cs" Line="36" Column="43" />
+      <File FileName="Assets\__Scripts\Scoreboard.cs" Line="31" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
